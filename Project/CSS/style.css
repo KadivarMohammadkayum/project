@@ -1,0 +1,331 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: system-ui, sans-serif;
+}
+
+ul li{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: system-ui, sans-serif;
+    font-weight: 700;
+}
+
+/* header area start */
+#header{
+    width: 100%;
+    background-color: transparent;
+    position: fixed;
+    z-index: 1;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 4px 8px 0px
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav .logo{
+    margin-left: 6%;
+    color: rgb(193, 157, 204);
+    margin-top: 10px;
+}
+
+.nav .logo a img{
+    height: 60px;
+    width: auto;
+}
+
+.nav .nav-bar ul li{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.nav .nav-bar ul li a{
+    color: rgb(201, 154, 154);
+    font-weight: 900;
+}
+
+.nav .nav-bar ul li a:hover{
+    color: rgb(230, 135, 10);
+}
+
+.signin{
+    margin-right: 10%;
+    width: 10%;
+}
+
+.signin button{
+    width: 140%;
+    height: 40px;
+    background-color: #fffdfd;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    border-radius: 10px;  
+    cursor: pointer;
+}
+
+.signin button a{
+    color: rgb(19, 17, 17);
+    font-weight: 700;
+    margin: 5px;
+    font-size: 18px;
+}
+
+/* taxi book */
+#booking{
+    position: relative;  
+}
+
+#booking img{
+    width: 100%; 
+    height: 100px;
+    filter: blur(1px);
+}
+
+.heading{
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+}
+
+.heading h2{
+    font-size: 36px;
+}
+
+.heading h1{
+    font-size: 70px;
+    color: #e1e1e1d4;
+}
+
+.heading h4{
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+em{
+    color: #ff4109;
+}
+
+#booking .book {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.book button{
+    width: 30%;
+    text-transform: capitalize;
+    margin: auto;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.book button a{
+    padding: 0px;
+}
+
+/* cabs booking */
+#cabbook{
+    margin-left: 6%;
+    margin-top: 20px;
+    background-image: url(\../Images/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+
+}
+
+#booking img{
+    width: 100%;
+    height: 600px;
+}
+
+.booktyp{
+    width: 35%;
+}
+
+#bt1, #bt2{
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: gray;
+    align-items: center;
+}
+
+#bt1{
+    margin-right: 30px;
+    margin-left: 15px;
+}
+
+.booknow{
+    background-color:  #FFBE00;
+    border-radius: 8px;
+}
+
+.heading2 h5{
+    text-align: center;
+    margin-top: 70px;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 600;
+    color: rgb(139, 131, 131);
+}
+
+.booknow hr{
+    border: 2px solid rgb(90, 81, 81);
+}
+
+.triptyp{
+    margin-left: 10%;
+    margin-top: 40px;
+}
+
+.triptyp button{
+    width: 40%;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #1a1616;
+    color: #FFBE00;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.triptyp button:hover{
+    color: #1a1616;
+    background-color: #fffdfd;
+    transition: 0.5s;
+}
+
+.searchlocation{
+    display: flex;
+    flex-direction: column;
+}
+
+.searchlocation{
+    font-size: 24px;
+}
+
+.fa-map-marker{
+    position: relative;
+    top: 52px;
+    left: 65px;
+    color: #c9b12b;
+    height: 35px;
+}
+
+.fa-location-arrow{
+    position: relative;
+    top: 55px;
+    left: 65px;
+    color: #c9b12b;
+    height: 35px;
+}
+
+.searchlocation input{
+    width: 84%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    margin-left: 10%;
+    margin-top: 8px;
+    background-color: #1f2029;
+    color: #c4c3ca;
+    line-height: 22px;
+    font-size: 16px;
+    padding: 13px 20px;
+    font-weight: 600;
+    box-shadow: #7a6a6a 1px 1px 1px 1px;
+    padding-left: 50px;
+    /* display: none; */
+}
+
+.submitbtn{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.submitbtn button{
+    border: none;
+    outline: none;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    background-color: #ffeba7;
+    font-size: 16px;
+    font-weight: 600;
+    color: #312c2c;
+    text-transform: uppercase;
+}
+
+.more-city:hover{
+    background-color: #1a1616;
+    color: #fffdfd;
+}
+
+.search-btn:hover{
+    background-color: #1a1616;
+    color: #fffdfd;
+}
+
+/* footer area star */
+footer{
+    margin-top: 260px;
+    background-color: #312c2c;
+    color: #ffffff;
+}
+
+.footercnt{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact i{
+    margin-top: 5px;
+}
+
+.social i{
+    margin: 2px;
+}
+
+.copyright{
+    background-color: #1a1616;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+
