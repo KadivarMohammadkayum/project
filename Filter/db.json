@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "id": "8037",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/28/5adb6607-0ec9-4044-bb70-b54eec37b7d2_68ae0552-7a40-4032-a43a-facd1c2942ce.jpeg",
+      "name": "Margherita Pizza",
+      "category": "lunch",
+      "price": "162",
+      "description": "A classic cheesy Margherita. Cant go wrong. [Fat-14.3 per 100 g, Protein-12.6 per 100 g, Carbohydrate-39.2 per 100 g, Sugar-0 per 100 g, Calories-336 k.cal]Nutritional information per 100g"
+    },
+    {
+      "id": "d2c1",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/28/d76f21d7-8334-4281-b4e6-6a97203f8b46_8725adb6-aa28-479f-bdf5-5e6dd32e0ee0.png",
+      "name": "Double Cheese Margherita Pizza",
+      "category": "dinner",
+      "price": "209",
+      "description": "Loaded with extra cheese"
+    },
+    {
+      "id": "4688",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f51re5mmk0wx5ngsu9bl",
+      "name": "Lovers Bite Pizza",
+      "category": "dinner",
+      "price": "207",
+      "description": "A wholesome combination of tossed mushrooms, olives and juicy sweet corn. [Fat-9 per 100 g, Protein-12.4 per 100 g, Carbohydrate-32.2 per 100 g, Sugar-0 per 100 g, Calories-260.1 k.cal]Nutritional information per 100g"
+    },
+    {
+      "id": "17f1",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_300,h_300,c_fit/hu5jedzg7vzo1ujcow5w",
+      "name": "Veg Hawaiian Pizza",
+      "category": "lunch",
+      "price": "207",
+      "description": "Nothing says Hawaiian like pineapple, paneer, and sweet corn with extra cheese. [Fat-20.3 per 10 g, Protein-10.9 per 100 g, Carbohydrate-28.6 per 100 g, Sugar-0 per 100 g, Calories-340.9 k.cal]Nutritional information per 100g"
+    },
+    {
+      "id": "26b4",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uy4nq7wk80zdgcncku98",
+      "name": "Idli Sambar",
+      "description": "Spongy 2 pcs of idlis steamed to perfection. | Item can't be modified |",
+      "price": "80",
+      "category": "breackfast"
+    },
+    {
+      "id": "5f0c",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7fd9f9727e0934023c8d5420cc9d0417",
+      "name": "Wada Sambar [2 Pieces]",
+      "category": "breackfast",
+      "price": "60",
+      "description": "Perfectly crispy 2 pcs of vada dunked in sambhar | Deep Fried || Item can't be modified |"
+    },
+    {
+      "id": "2c7f",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c2da59d41f7eef8e29d48b082d4cab22",
+      "name": "Egg Samosa(3 Egg)",
+      "description": "Mildly spiced samosas made out of eggs, onion, tomato and bread",
+      "price": "150",
+      "category": "breackfast"
+    },
+    {
+      "id": "9813",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/3/13/6129a3f5-bf6f-4d2a-9732-4958bf9d036e_ffe6148f-1aab-4fa8-a646-c9d1b3ac0dd0.jpg",
+      "name": "Idli (sambhar )",
+      "description": "Perfectly crispy 2 pcs of vada dunked in sambhar | Deep Fried || Item can't be modified |",
+      "price": "55",
+      "category": "breackfast"
+    },
+    {
+      "id": "cb79",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wpvfhu7xc1dmdggy12nc",
+      "name": "Economic Lunch",
+      "category": "lunch",
+      "price": "255",
+      "description": "1 Paneer Sabzi + 1 Veg Sabzi + Roti -3 + Dal Fry + Jeera Rice + Roasted Papad + Butter Milk [Half] + Gulab Jamun - [2 Piece]"
+    },
+    {
+      "id": "42f2",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/7/10/34d6ae1d-89b6-4a3f-8c05-0405ae219dde_3038881e-87bc-4d73-b2cb-c941f0be6257.jpg_compressed",
+      "name": "Kathiyawadi Gujarati Thali (L)",
+      "description": "2 Sabzi+Dal+Rice+4 Butter Phulka Roti+Special Buttermilk+Papad+Salad [Subject to Availability]",
+      "price": "250",
+      "category": "lunch"
+    },
+    {
+      "id": "0855",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pvgdqwfx6ewwgicx7je9",
+      "name": "Limited Punjabi Delux Thali",
+      "description": "",
+      "price": "150",
+      "category": "lunch"
+    },
+    {
+      "id": "2a79",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/f7b6f4be1322ed3e0c1feb8fcc5bf2e9",
+      "name": "Punjabi Thali With Sweet [Meal Box/ Lunch Box]",
+      "description": "2 Butter Roti + Special Paneer Sabzi + Special Veg Sabzi + Dal Fry + Jeera Rice + Gulab Jamun / Halva + Salad + Pickle",
+      "price": "250",
+      "category": "lunch"
+    },
+    {
+      "id": "9f38",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/37e179ef89c695defdd474f644f3bd79",
+      "name": "Egg Brown Rice With 4 Boiled Egg",
+      "description": "",
+      "price": "159",
+      "category": "dinner"
+    },
+    {
+      "id": "e6b0",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/93e2cf4a45e1c0c0a27ebf08c69648e1",
+      "name": "Delicious Indian flatbread stuffed ",
+      "description": "Delicious Indian flatbread stuffed with flavorful mashed potatoes, served with a side of refreshing curd.",
+      "price": "60",
+      "category": "dinner"
+    },
+    {
+      "id": "e113",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/18ab1a2a-c2a7-4cf0-a410-dacdf189bbd8_65028.JPG",
+      "name": "Subway",
+      "category": "lunch",
+      "price": "250",
+      "description": "",
+      "rating": "4"
+    },
+    {
+      "id": "89f1",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ndknyqh3yz3qu5ohrhhu",
+      "name": "Margherita Pizza",
+      "category": "dinner",
+      "price": "250",
+      "description": "",
+      "rating": "2.5"
+    },
+    {
+      "id": "b29e",
+      "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/tajbfx84hahoum5w9niz",
+      "name": "Coc",
+      "category": "lunch",
+      "price": "120",
+      "description": "",
+      "rating": "3.5"
+    }
+  ]
+}
